@@ -1,0 +1,14 @@
+{
+    "name": "vendor/fmconf2016",
+    "description": "FMCONF 2016 - PHP-API demo",
+    "authors": [
+        {
+            "name": "romain",
+            "email": "romain@1-more-thing.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "airmoi/filemaker": "dev-develop"
+    }
+}

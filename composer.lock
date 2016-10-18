@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "b4afd2cffbb84312e9d3409b9aeb5341",
+    "content-hash": "ca39225a50fad39e882be884be53311a",
+    "packages": [
+        {
+            "name": "airmoi/filemaker",
+            "version": "dev-develop",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/airmoi/FileMaker.git",
+                "reference": "ddb7ec1dbdcc4d88cb71156f4a49c54c0ee1de6c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/airmoi/FileMaker/zipball/ddb7ec1dbdcc4d88cb71156f4a49c54c0ee1de6c",
+                "reference": "ddb7ec1dbdcc4d88cb71156f4a49c54c0ee1de6c",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "airmoi\\FileMaker\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "FileMaker Sofware Licence"
+            ],
+            "authors": [
+                {
+                    "name": "Romain Dunand",
+                    "email": "airmoi@gmail.com"
+                }
+            ],
+            "description": "Rewriten FileMaker PHP-API",
+            "keywords": [
+                "FileMaker",
+                "PHP-API"
+            ],
+            "time": "2016-10-17 17:19:25"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "airmoi/filemaker": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
